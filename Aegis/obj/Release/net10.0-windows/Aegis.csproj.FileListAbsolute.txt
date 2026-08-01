@@ -1,0 +1,16 @@
+C:\Users\meres\source\repos\Aegis\Aegis\bin\Release\net10.0-windows\Aegis.exe
+C:\Users\meres\source\repos\Aegis\Aegis\bin\Release\net10.0-windows\Aegis.deps.json
+C:\Users\meres\source\repos\Aegis\Aegis\bin\Release\net10.0-windows\Aegis.runtimeconfig.json
+C:\Users\meres\source\repos\Aegis\Aegis\bin\Release\net10.0-windows\Aegis.dll
+C:\Users\meres\source\repos\Aegis\Aegis\obj\Release\net10.0-windows\Aegis.Form1.resources
+C:\Users\meres\source\repos\Aegis\Aegis\obj\Release\net10.0-windows\Aegis.csproj.GenerateResource.cache
+C:\Users\meres\source\repos\Aegis\Aegis\obj\Release\net10.0-windows\Aegis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meres\source\repos\Aegis\Aegis\obj\Release\net10.0-windows\Aegis.AssemblyInfoInputs.cache
+C:\Users\meres\source\repos\Aegis\Aegis\obj\Release\net10.0-windows\Aegis.AssemblyInfo.cs
+C:\Users\meres\source\repos\Aegis\Aegis\obj\Release\net10.0-windows\Aegis.csproj.CoreCompileInputs.cache
+C:\Users\meres\source\repos\Aegis\Aegis\obj\Release\net10.0-windows\Aegis.dll
+C:\Users\meres\source\repos\Aegis\Aegis\obj\Release\net10.0-windows\refint\Aegis.dll
+C:\Users\meres\source\repos\Aegis\Aegis\obj\Release\net10.0-windows\Aegis.genruntimeconfig.cache
+C:\Users\meres\source\repos\Aegis\Aegis\obj\Release\net10.0-windows\ref\Aegis.dll
+C:\Users\meres\source\repos\Aegis\Aegis\bin\Release\net10.0-windows\Aegis.pdb
+C:\Users\meres\source\repos\Aegis\Aegis\obj\Release\net10.0-windows\Aegis.pdb
