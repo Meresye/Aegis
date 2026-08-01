@@ -1,1 +1,0 @@
-C:\Users\meres\source\repos\Aegis\Aegis\bin\Release\net10.0-windows\win-x64\publish\Aegis.exe
